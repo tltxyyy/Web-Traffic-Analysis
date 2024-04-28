@@ -1,4 +1,4 @@
-# Web-Traffic-Analysis
+<img width="825" alt="image" src="https://github.com/tltxyyy/Web-Traffic-Analysis/assets/69724535/828e69ea-c3a9-429c-b31e-7ca8c74585d8"># Web-Traffic-Analysis
 
 ## Summary
 * Analysed Google Analytics data to identify the key drivers behind decreasing web traffic and its impact on sales for a client.
@@ -19,6 +19,8 @@
 
 <img width="373" alt="image" src="https://github.com/tltxyyy/Web-Traffic-Analysis/assets/69724535/51156d97-efd3-4050-87a9-e1a0c778d154">
 
+<img width="825" alt="image" src="https://github.com/tltxyyy/Web-Traffic-Analysis/assets/69724535/084b72a2-d16c-4556-999f-2af6cd4de1dd">
+
 From this chart, we can see that the channels that brought the most users are:
   * Social
     * The social media platforms that they have been using has been effective in bringing potential customers to the website.
@@ -30,12 +32,10 @@ From this chart, we can see that the channels that brought the most users are:
 If we looking into the user mix by source, we observe that Facebook, paid search and organic search are the most valuable sources which bring people into the website.
 
 <img width="645" alt="image" src="https://github.com/tltxyyy/Web-Traffic-Analysis/assets/69724535/5e219de4-4950-4cd9-b925-0791815fe0fe">
-
-<img width="527" alt="image" src="https://github.com/tltxyyy/Web-Traffic-Analysis/assets/69724535/0470ce9f-9e2e-4ad0-983c-29f4e86c68be">
    
 ### Decreasing Web Traffic Trend
 
-<img width="845" alt="image" src="https://github.com/tltxyyy/Web-Traffic-Analysis/assets/69724535/35b40756-9b21-409c-9fc0-dc9b1c911ca7">
+<img width="850" alt="image" src="https://github.com/tltxyyy/Web-Traffic-Analysis/assets/69724535/d5959ecf-f55a-40e9-8a65-ededf264ee51">
 
 #### Deep Diving into the Trend of each Channel
 From this chart, we can observed that the channels causing the decreasing trend were these three channels: Paid search, Organic search and Social. After investigating into the random spikes in April and June 2022 caused by the “Referral” channel, it was discovered that they were glitches in system. This further pronounces the declining trend if we remove the erroneous data points of these random spikes.
