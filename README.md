@@ -68,7 +68,3 @@ Hence, the solution we formulated to tackle the problem of decreasing traffic in
 
 With exlcusive discount codes only on Facebook, it will incentivise customers to find the coupon code on Facebook page, indirectly drive traffic to Meatlovers’ Facebook site. Moreover, customers will feel like they are earning an exclusive discount of great value, encouraging customers from Facebook to make a purchase.
 
-
-### Cross-selling engine
-
-engine that is intuitive and easily usable by the company even after the project
