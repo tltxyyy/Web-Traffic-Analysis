@@ -1,4 +1,4 @@
-<img width="825" alt="image" src="https://github.com/tltxyyy/Web-Traffic-Analysis/assets/69724535/828e69ea-c3a9-429c-b31e-7ca8c74585d8"># Web-Traffic-Analysis
+# Web-Traffic-Analysis
 
 ## Summary
 * Analysed Google Analytics data to identify the key drivers behind decreasing web traffic and its impact on sales for a client.
@@ -19,7 +19,7 @@
 
 <img width="373" alt="image" src="https://github.com/tltxyyy/Web-Traffic-Analysis/assets/69724535/51156d97-efd3-4050-87a9-e1a0c778d154">
 
-<img width="825" alt="image" src="https://github.com/tltxyyy/Web-Traffic-Analysis/assets/69724535/084b72a2-d16c-4556-999f-2af6cd4de1dd">
+<img width="825" alt="image" src="https://github.com/tltxyyy/Web-Traffic-Analysis/assets/69724535/828e69ea-c3a9-429c-b31e-7ca8c74585d8">
 
 From this chart, we can see that the channels that brought the most users are:
   * Social
