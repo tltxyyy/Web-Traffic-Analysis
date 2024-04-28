@@ -62,14 +62,17 @@ So its inherent value is in bringing in high traffic, build brand awareness and 
 
 <img width="207" alt="image" src="https://github.com/tltxyyy/Web-Traffic-Analysis/assets/69724535/4bf8f3e5-b33a-403b-8423-5ab8131f0098">
 
-
-
 Hence, the solution we formulated to tackle the problem of decreasing traffic in Social channel is to create a facebook exclusive promo code. On top of the fact that it manifests great potential in assisting conversions of users to customers, Facebook has the highest concentration of users which are classified as “deal seekers” as shown in the chart below.
 
 <img width="476" alt="image" src="https://github.com/tltxyyy/Web-Traffic-Analysis/assets/69724535/f2941a04-22fb-4bbd-b272-67adb5226fdd">
 
-<img width="833" alt="image" src="https://github.com/tltxyyy/Web-Traffic-Analysis/assets/69724535/f083ce39-ea45-4594-bc6b-9f8f5a5b12ad">
+<img width="450" alt="image" src="https://github.com/tltxyyy/Web-Traffic-Analysis/assets/69724535/f083ce39-ea45-4594-bc6b-9f8f5a5b12ad">
 
-<img width="931" alt="image" src="https://github.com/tltxyyy/Web-Traffic-Analysis/assets/69724535/13c317e3-d33b-4a15-a183-babc11b87013">
+<img width="450" alt="image" src="https://github.com/tltxyyy/Web-Traffic-Analysis/assets/69724535/13c317e3-d33b-4a15-a183-babc11b87013">
 
 With exlcusive discount codes only on Facebook, it will incentivise customers to find the coupon code on Facebook page, indirectly drive traffic to Meatlovers’ Facebook site. Moreover, customers will feel like they are earning an exclusive discount of great value, encouraging customers from Facebook to make a purchase.
+
+
+### Cross-selling engine
+
+engine that is intuitive and easily usable by the company even after the project
