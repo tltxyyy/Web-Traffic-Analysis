@@ -18,8 +18,6 @@
 
 ### Analysis of Main Traffic Sources
 
-<img width="825" alt="image" src="https://github.com/tltxyyy/Web-Traffic-Analysis/assets/69724535/828e69ea-c3a9-429c-b31e-7ca8c74585d8">
-
 From this chart, we can see that the channels that brought the most users are:
   * Social
     * The social media platforms that they have been using has been effective in bringing potential customers to the website.
@@ -27,6 +25,9 @@ From this chart, we can see that the channels that brought the most users are:
     * This is pretty concerning as direct channel usually refers to unknown sources, implying that data might not have been complete.
   * Paid Search
     * This could suggest that the keywords bidded were effective
+   
+ 
+<img width="825" alt="image" src="https://github.com/tltxyyy/Web-Traffic-Analysis/assets/69724535/828e69ea-c3a9-429c-b31e-7ca8c74585d8">
 
 If we looking into the user mix by source, we observe that Facebook, paid search and organic search are the most valuable sources which bring people into the website.
 
