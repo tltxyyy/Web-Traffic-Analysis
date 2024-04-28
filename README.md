@@ -46,15 +46,30 @@ Zooming into the three channels identified to be causing the decreasing trend, w
 
 ### Customer Conversion Analysis
 Recalling that Facebook is the top source that brings users into the website, the conversion however is not living up to the potential customers it brings in relative to paid and organic search.
-<img width="544" alt="image" src="https://github.com/tltxyyy/Web-Traffic-Analysis/assets/69724535/8b00faa3-eae0-4afd-a175-a1f87f1708e5">
+
+<img width="510" alt="image" src="https://github.com/tltxyyy/Web-Traffic-Analysis/assets/69724535/c789ca5b-3a04-4681-bca8-96f8dc6e86e6">
+
+<img width="722" alt="image" src="https://github.com/tltxyyy/Web-Traffic-Analysis/assets/69724535/6a8e262f-c1d3-4fb2-a2e8-5222370890da">
+
 
 #### Understanding Users from Facebook
 This reasoning is further supported by the top transaction conversion paths shown in GA, whereby we only spot “social network” in the 35th most common conversion paths. 
 This shows that social channel does not bring in high transactions. Rather, it acts as an assisting role in the user’s conversion path. As we see here, this path means that the user came in from social network, exit then came in again from referral channel and made a purchase.
 So its inherent value is in bringing in high traffic, build brand awareness and in assisting users to convert to customers.
 
+<img width="210" alt="image" src="https://github.com/tltxyyy/Web-Traffic-Analysis/assets/69724535/3d320bb7-5388-4e96-b54c-da4a769f1190">
+
+
 <img width="207" alt="image" src="https://github.com/tltxyyy/Web-Traffic-Analysis/assets/69724535/4bf8f3e5-b33a-403b-8423-5ab8131f0098">
 
 
+
+Hence, the solution we formulated to tackle the problem of decreasing traffic in Social channel is to create a facebook exclusive promo code. On top of the fact that it manifests great potential in assisting conversions of users to customers, Facebook has the highest concentration of users which are classified as “deal seekers” as shown in the chart below.
+
+<img width="476" alt="image" src="https://github.com/tltxyyy/Web-Traffic-Analysis/assets/69724535/f2941a04-22fb-4bbd-b272-67adb5226fdd">
+
+<img width="833" alt="image" src="https://github.com/tltxyyy/Web-Traffic-Analysis/assets/69724535/f083ce39-ea45-4594-bc6b-9f8f5a5b12ad">
+
 <img width="931" alt="image" src="https://github.com/tltxyyy/Web-Traffic-Analysis/assets/69724535/13c317e3-d33b-4a15-a183-babc11b87013">
 
+With exlcusive discount codes only on Facebook, it will incentivise customers to find the coupon code on Facebook page, indirectly drive traffic to Meatlovers’ Facebook site. Moreover, customers will feel like they are earning an exclusive discount of great value, encouraging customers from Facebook to make a purchase.
