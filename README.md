@@ -7,7 +7,7 @@
 
 
 ## Methodology
-* This was a real-life consulting project, a group work which we met up with the CEO and staff to understand how their business operates and the exisiting challenges they were facing. After a series of research and analysis using data on Google Analytics which we were authorised access to, we discovered that there was a decreasing trend of web traffic and conversion and hence decided that it would be an insightful scope to look into their ecommerce platform.
+* This was a real-life consulting project, a group work which we met up with the CEO and staff to understand how their business operates and the exisiting challenges they were facing. After a series of research and analysis using data on Google Analytics which we were authorised access to, we discovered that there was a decreasing trend of web traffic and conversion and hence decided that it would be an insightful scope to look into their ecommerce performance.
 * From there, we tried to make sense of the data, understand the reasons behind declining web traffic and ecommerce sales to provide some suggestions of improvement. Research on other market competitors that has an ecommerce page was also taken into consideration before recommendations were formulated.
 * Unless otherwise mentioned, all of the data used in this markdown file was extracted from Google Analytics across the period from 1 Aug 2021 to 31 July 2022.
 * Data was cleaned and wrangled in R and ggplot2 package is mainly used to create the visualisations.
