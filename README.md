@@ -28,6 +28,9 @@ From this chart, we can see that the channels that brought the most users are:
     * This could suggest that the keywords bidded were effective
 
 If we looking into the user mix by source, we observe that Facebook, paid search and organic search are the most valuable sources which bring people into the website.
+
+<img width="645" alt="image" src="https://github.com/tltxyyy/Web-Traffic-Analysis/assets/69724535/5e219de4-4950-4cd9-b925-0791815fe0fe">
+
 <img width="527" alt="image" src="https://github.com/tltxyyy/Web-Traffic-Analysis/assets/69724535/0470ce9f-9e2e-4ad0-983c-29f4e86c68be">
    
 ### Decreasing Web Traffic Trend
