@@ -36,10 +36,12 @@ If we looking into the user mix by source, we observe that Facebook, paid search
 ### Web Traffic Trend
 
 From the chart, we observe a decreasing trend of users visiting the website across the past year.
+
 <img width="850" alt="image" src="https://github.com/tltxyyy/Web-Traffic-Analysis/assets/69724535/d5959ecf-f55a-40e9-8a65-ededf264ee51">
 
 #### Deep Diving into the Trend of each Channel
 If we look into the trends of each channel, it can be observed that the channels causing the decreasing trend were three channels: Paid search, Organic search and Social. After investigating into the random spikes in April and June 2022 caused by the “Referral” channel, it was discovered that they were glitches in system. This further defines the declining trend if we remove the erroneous data points of these random spikes.
+
 <img width="863" alt="image" src="https://github.com/tltxyyy/Web-Traffic-Analysis/assets/69724535/eae777e6-401f-4fa9-bc5e-18c11131038e">
 
 Zooming into the three channels identified to be causing the decreasing trend, we can see that paid and organic search has been gradually decreasing and users that came from social channels from periodical updates do not spike as high anymore.
