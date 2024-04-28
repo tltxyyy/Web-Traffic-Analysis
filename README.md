@@ -10,14 +10,13 @@
 * This was a real-life consulting project, a group work which we met up with the CEO and staff to understand how their business operates and the exisiting challenges they were facing. After a series of research and analysis using data on Google Analytics which we were authorised access to, we discovered that there was a decreasing trend of web traffic and conversion and hence decided that it would be an insightful scope to look into their ecommerce platform.
 * From there, we tried to make sense of the data, understand the reasons behind declining web traffic and ecommerce sales to provide some suggestions of improvement. Research on other market competitors that has an ecommerce page was also taken into consideration before recommendations were formulated.
 * Unless otherwise mentioned, all of the data used in this markdown file was extracted from Google Analytics across the period from 1 Aug 2021 to 31 July 2022.
+* Data was cleaned and wrangled in R and ggplot2 package is mainly used to create the visualisations.
 * The parts which I was mainly in charge of is highlighted below.
 
 
 ## Project Highlights
 
 ### Analysis of Main Traffic Sources
-
-<img width="373" alt="image" src="https://github.com/tltxyyy/Web-Traffic-Analysis/assets/69724535/51156d97-efd3-4050-87a9-e1a0c778d154">
 
 <img width="825" alt="image" src="https://github.com/tltxyyy/Web-Traffic-Analysis/assets/69724535/828e69ea-c3a9-429c-b31e-7ca8c74585d8">
 
@@ -39,10 +38,10 @@ If we looking into the user mix by source, we observe that Facebook, paid search
 
 #### Deep Diving into the Trend of each Channel
 From this chart, we can observed that the channels causing the decreasing trend were these three channels: Paid search, Organic search and Social. After investigating into the random spikes in April and June 2022 caused by the “Referral” channel, it was discovered that they were glitches in system. This further pronounces the declining trend if we remove the erroneous data points of these random spikes.
-<img width="585" alt="image" src="https://github.com/tltxyyy/Web-Traffic-Analysis/assets/69724535/c12ea81b-0fdf-45fe-82c4-458a3a2cfe15">
+<img width="863" alt="image" src="https://github.com/tltxyyy/Web-Traffic-Analysis/assets/69724535/eae777e6-401f-4fa9-bc5e-18c11131038e">
 
 Zooming into the three channels identified to be causing the decreasing trend, we can see that paid and organic search has been gradually decreasing and users that came from social channels from periodical updates do not spike as high anymore.
-<img width="679" alt="image" src="https://github.com/tltxyyy/Web-Traffic-Analysis/assets/69724535/4a3e92a3-6f49-4b74-b501-54be3974237e">
+<img width="836" alt="image" src="https://github.com/tltxyyy/Web-Traffic-Analysis/assets/69724535/4aac9d0b-03ee-4469-bf1f-6828216ebed0">
 
 
 ### Customer Conversion Analysis
