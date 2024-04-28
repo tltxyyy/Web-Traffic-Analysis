@@ -33,12 +33,13 @@ If we looking into the user mix by source, we observe that Facebook, paid search
 
 <img width="645" alt="image" src="https://github.com/tltxyyy/Web-Traffic-Analysis/assets/69724535/5e219de4-4950-4cd9-b925-0791815fe0fe">
    
-### Decreasing Web Traffic Trend
+### Web Traffic Trend
 
+From the chart, we observe a decreasing trend of users visiting the website across the past year.
 <img width="850" alt="image" src="https://github.com/tltxyyy/Web-Traffic-Analysis/assets/69724535/d5959ecf-f55a-40e9-8a65-ededf264ee51">
 
 #### Deep Diving into the Trend of each Channel
-From this chart, we can observed that the channels causing the decreasing trend were these three channels: Paid search, Organic search and Social. After investigating into the random spikes in April and June 2022 caused by the “Referral” channel, it was discovered that they were glitches in system. This further pronounces the declining trend if we remove the erroneous data points of these random spikes.
+If we look into the trends of each channel, it can be observed that the channels causing the decreasing trend were three channels: Paid search, Organic search and Social. After investigating into the random spikes in April and June 2022 caused by the “Referral” channel, it was discovered that they were glitches in system. This further defines the declining trend if we remove the erroneous data points of these random spikes.
 <img width="863" alt="image" src="https://github.com/tltxyyy/Web-Traffic-Analysis/assets/69724535/eae777e6-401f-4fa9-bc5e-18c11131038e">
 
 Zooming into the three channels identified to be causing the decreasing trend, we can see that paid and organic search has been gradually decreasing and users that came from social channels from periodical updates do not spike as high anymore.
@@ -54,14 +55,10 @@ Recalling that Facebook is the top source that brings users into the website, th
 
 
 #### Understanding Users from Facebook
-This reasoning is further supported by the top transaction conversion paths shown in GA, whereby we only spot “social network” in the 35th most common conversion paths. 
-This shows that social channel does not bring in high transactions. Rather, it acts as an assisting role in the user’s conversion path. As we see here, this path means that the user came in from social network, exit then came in again from referral channel and made a purchase.
-So its inherent value is in bringing in high traffic, build brand awareness and in assisting users to convert to customers.
+To understand the role of Facebook in this ecommerce business, we also looked into the top transaction conversion paths shown in GA, whereby we only spot “social network” in the 35th most common conversion paths. This explains the insight that we have found previously where although the social channel brings in the highest volume of users, it does not bring in high transactions. Rather, it acts as an assisting role in the user’s conversion path. As we see here, this path means that the user came in from social network, exit then came in again from referral channel and made a purchase. Its inherent value is therefore in bringing in high traffic, build brand awareness and in assisting users to convert to customers.
 
 <img width="210" alt="image" src="https://github.com/tltxyyy/Web-Traffic-Analysis/assets/69724535/3d320bb7-5388-4e96-b54c-da4a769f1190">
 
-
-<img width="207" alt="image" src="https://github.com/tltxyyy/Web-Traffic-Analysis/assets/69724535/4bf8f3e5-b33a-403b-8423-5ab8131f0098">
 
 Hence, the solution we formulated to tackle the problem of decreasing traffic in Social channel is to create a facebook exclusive promo code. On top of the fact that it manifests great potential in assisting conversions of users to customers, Facebook has the highest concentration of users which are classified as “deal seekers” as shown in the chart below.
 
